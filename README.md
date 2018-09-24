@@ -14,7 +14,8 @@ All code is written in Jupyter Notebooks, therefore you can use then to study by
 
 * Interpolation *TODO*
 
-* Curve Adjusting *TODO*
+* Curve Adjusting *Work in progress*
+    * Least Squares Method
 
 * Numerical Integration *Work in progress*
     * Trapezoid Rule
