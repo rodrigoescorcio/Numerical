@@ -17,18 +17,18 @@ All code is written in Jupyter Notebooks, therefore you can use then to study by
 * Curve Adjusting
     * Least Squares Method
 
-* Numerical Integration *Work in progress*
+* Numerical Integration
     * Trapezoid Rule
     * Chained Trapezoid Rule
     * Simpson's Rule
     * Chained Simpson's Rule
     * Gaussian Quadrature
 
-* Ordinary Differential Equations *Work in progress*
+* Ordinary Differential Equations
     * Euler Method
     * Heun Method
     * Runge-Kutta Methods
-    * nth-order Differential Equation
+    * mth-order Differential Equations
     * Boundary Value Problems
 
 * Partial Differential Equations *TODO*
