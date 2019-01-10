@@ -1,8 +1,10 @@
 # Numerical Calculus
 
-This repository contains code for numeric algorithms presented in Numerical Calculus courses. Along with code, there are explanations about each method shown.
+The project goal is to build notes on numeric algorithms presented in most Numerical Calculus courses that can be used both for theoretical learning of methods and for practical activities. All code is written as Jupyter Notebooks, using Python, therefore you can use then to study by changing the model parameters and functions from your computer. This project is done for you to experiment with the notebooks and learn better.
 
-All code is written in Jupyter Notebooks, therefore you can use then to study by changing the model parameters from your computer.
+The full file containing all notes is [here](https://github.com/sampaio23/Numerical/blob/master/final.pdf), **but it's not finished yet**.
+
+In order to use the material, you need to install *jupyter* in your computer. You can follow the tutorials [here](https://jupyter.readthedocs.io/en/latest/install.html), using the method that most adapt to your operational system.
 
 **Contents**
 
@@ -25,7 +27,7 @@ All code is written in Jupyter Notebooks, therefore you can use then to study by
     * Chained Simpson's Rule
     * Gaussian Quadrature
 
-* Ordinary Differential Equations
+* Ordinary Differential Equations *NOT FINISHED*
     * Euler Method
     * Heun Method
     * Runge-Kutta Methods
@@ -35,4 +37,5 @@ All code is written in Jupyter Notebooks, therefore you can use then to study by
 * Partial Differential Equations *TODO*
 
 * Stochastic Differential Equations *TODO*
+
 
