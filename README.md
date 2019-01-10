@@ -10,7 +10,8 @@ All code is written in Jupyter Notebooks, therefore you can use then to study by
 
 * Linear System Solving *TODO*
 
-* Non-linear System Solving *TODO*
+* Non-linear System Solving
+    * Newton Method
 
 * Interpolation *TODO*
 
